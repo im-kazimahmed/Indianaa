@@ -1,0 +1,63 @@
+# Flutter/Dart specific
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+/build/
+
+# Android specific
+android/.gradle
+android/app/build/
+android/build/
+android/gradle/
+android/local.properties
+android/gradlew
+android/gradlew.bat
+
+# iOS specific
+ios/Pods/
+ios/Flutter/Flutter.framework/
+ios/Flutter/Generated.xcconfig
+ios/Flutter/App.framework/
+ios/Flutter/Flutter.xcconfig
+ios/Flutter/flutter_assets/
+ios/Flutter/ephemeral/
+ios/Flutter/flutter_export_environment.sh
+ios/Flutter/Flutter-Debug.xcconfig
+ios/Flutter/Flutter-Release.xcconfig
+ios/Flutter/Flutter.framework/
+ios/Flutter/Flutter.podspec
+ios/Flutter/flutter_export_environment.sh
+ios/Flutter/App.framework/
+ios/Flutter/App.podspec
+ios/Flutter/Flutter.podspec
+ios/Flutter/gen_snapshot
+ios/Flutter/flutter_assets/
+ios/Flutter/flutter_export_environment.sh
+ios/Flutter/flutter_export_environment.sh
+ios/Flutter/flutter_export_environment.sh
+
+# macOS specific
+macos/Flutter/Flutter.xcconfig
+macos/Flutter/ephemeral/
+macos/Flutter/flutter_assets/
+macos/Flutter/Flutter-Debug.xcconfig
+macos/Flutter/Flutter-Release.xcconfig
+macos/Flutter/flutter_export_environment.sh
+macos/Flutter/gen_snapshot
+
+# Other
+.vscode/
+*.iml
+*.log
+*.pot
+*.orig
+*.lock
+*.md
+*.yml
+*.yaml
+*.g.dart
+*.jks
+*.keystore
+*.flutter-plugins-dependencies

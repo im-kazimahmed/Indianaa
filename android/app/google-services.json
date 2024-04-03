@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "898217247313",
+    "project_id": "india-naa-393c3",
+    "storage_bucket": "india-naa-393c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898217247313:android:f90c0bdc35ddfe4d18ee70",
+        "android_client_info": {
+          "package_name": "com.unibask.indiana_user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDowwzpwJuLdEes_qJvk2jQLP9aj5e-pjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

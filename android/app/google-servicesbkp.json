@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "728877433631",
+    "project_id": "indiana-aac01",
+    "storage_bucket": "indiana-aac01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728877433631:android:e8e4911f5466ce4fc9e62a",
+        "android_client_info": {
+          "package_name": "com.habitude.indiana_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728877433631-atg9ej207u5hph1qjglb8sut6pbmraj0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJs9oIWYsPVlB6boukBoUtfMKNOChWWxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728877433631-atg9ej207u5hph1qjglb8sut6pbmraj0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
